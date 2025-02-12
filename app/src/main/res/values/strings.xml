@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinJC_ComposeTutorial_example</string>
+    <string name="phone">Телефон</string>
+    <string name="address">Адрес</string>
+    <string name="email">E-mail</string>
+    <string name="test_adress">E-mail</string>
+</resources>
