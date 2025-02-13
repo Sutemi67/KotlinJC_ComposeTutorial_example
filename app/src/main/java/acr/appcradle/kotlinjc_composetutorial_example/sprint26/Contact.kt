@@ -1,5 +1,7 @@
 package acr.appcradle.kotlinjc_composetutorial_example.sprint26
 
+import acr.appcradle.kotlinjc_composetutorial_example.R
+
 data class Contact(
     val name: String, //Имя
     val surname: String? = null, //Отчество
@@ -25,7 +27,7 @@ val contact2 = Contact(
     name = "Василий",
     surname = null,
     familyName = "Кузякин",
-    imageRes = null,
+    imageRes = R.drawable.avatar,
     isFavorite = false,
     phone = "--",
     address = "Ивановская область, дер. Крутово, д.4",
