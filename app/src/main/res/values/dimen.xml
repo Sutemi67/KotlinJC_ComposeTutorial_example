@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">10.dp</dimen>
+    <dimen name="profile_image_size">60.dp</dimen>
+</resources>
